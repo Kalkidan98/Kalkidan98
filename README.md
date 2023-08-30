@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kalkidan 
 - 👀 I’m a QA Tester
 - 🌱 I’m currently learning to use API Testing, Postman and SQL
-- 💞️ I’m looking to collaborate on Project uses API Testing, Postman and SQl
+- 💞️ I’m looking to collaborate on a Project that uses API Testing, Postman and SQL
 - 📫 How to reach me kal.nigatu9@gmail.com
 
 <!---
